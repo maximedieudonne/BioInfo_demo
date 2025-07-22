@@ -2,9 +2,13 @@
 
 Ce projet propose un pipeline de traitement d’images de cellules au format `.tif`, construit avec **Snakemake** et conçu selon les principes **FAIR** (Findable, Accessible, Interoperable, Reusable).
 
+Les images utilisées sont les images disponibles publiquement via https://celltrackingchallenge.net/
+
 Il inclut les étapes suivantes :
 1. **Segmentation** : détection des cellules (premier plan / arrière-plan)
 2. **Colorisation** : chaque cellule est affichée dans une couleur différente
+
+<img src="./screenshots/screen_demo.JPG" alt="dpfstar display" width="500"/>
 
 ---
 
