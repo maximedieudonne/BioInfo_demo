@@ -9,7 +9,7 @@ Il inclut les étapes suivantes :
 ---
 
 ## Structure du projet
-
+```bash
 cell_tracking_fair_project/
 ├── Snakefile # Définition du pipeline Snakemake
 ├── config.yaml # Configuration des images à traiter
@@ -28,7 +28,7 @@ cell_tracking_fair_project/
 ├── LICENSE # Licence du projet
 ├── CITATION.cff # Fichier de citation
 └── README.md # Ce fichier
-
+```
 
 ---
 
