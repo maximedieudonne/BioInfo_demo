@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+title: "Image processing demo FAIR Pipeline"
+authors:
+  - family-names: Dieudonne
+    given-names: Maxime
+license: MIT
+version: 1.0
