@@ -10,7 +10,7 @@ Il inclut les étapes suivantes :
 
 ## Structure du projet
 ```bash
-cell_tracking_fair_project/
+BioInfo_demo/
 ├── Snakefile # Définition du pipeline Snakemake
 ├── config.yaml # Configuration des images à traiter
 ├── envs/ # Environnements Conda pour chaque étape
